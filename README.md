@@ -1,4 +1,6 @@
-## آبان 1402
+## December 2023
+
+
 # Ai _ Knuth guess
 
 - Starting from the number 4, there is a sequence of operations including the multiplication of 5(*5), the square root, and the integer component, which can be used to obtain any desired integer.
